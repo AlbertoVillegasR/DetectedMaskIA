@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "monitoreofarmaplus",
+    "private_key_id": "29f61f0781281e1713659e5c3c1521f06e5bf4f5",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCtfbDjTtwYQMdA\nOCYrvdjKDrm7xXrhg+a0npBwb8n9D3/0rP/qdNqJZGNWd7HAToDBYioCZRfnzUZB\nt7fTjsTWnOh1IjqT6n1UEgc0M1+3ITlnws3HrPN1JVsvydUCmSVEpA1JJkrHAsYA\nhK02TSbGdoy7pbPiZrvE3OG9Y8k+ip/TW2TJAmJVkz03mZTwzSVQzFZ68cRa3Qaw\n1DVEYIrMzE3axncyDb3wiCgwGWhrMR3HvnnCeHqtdIdl2uXxgQF2uobSlV9Lx+ry\nYLxhdfmNys5CeFmUWdcgLslUp4eYLlapjdss7WLOqHxt/J/pVunPaWIZvotovyrt\n2T1f43t9AgMBAAECggEACAcXXsVA4Oxqa9nNRlvgAqWAyaP/Jh082SG3LES383o6\noP86TkZ+8DmRcShTtMLNKWWZ7Qdxfjvc4uCV5HeoOwgCp5zgWgTRLMkyxSMVbDtg\n1SDJ9dHWaBbE6+aqcRbWByGSLc7USfYiZFa/TxJt12QX6fzmYHUBfj/8QA+0eazL\n7Ic7J+wJIqA9zECIZSy9bn6gA0J40jmmyxpljbn8PrqpA0JlleiTb0zB6EMP0qVe\nqr0aSo3/0ZPCXq0yIUU9QwiWOMtlEAlO2HGCQKQADzLSDChGM8WshlCBsen1NdeO\nSFUlmxZqGFUU077l67JeciztFxj9JIT3k/gWaQVRPwKBgQDTzydk8R4EPV3mbFBd\nT6omsSU/xa8joQnFUjcViSxysLq5Z4XjL2astDvKzNZmKT8M4lmNt7RSSTNXwYTS\n9RZAcwd/VQazi2kJ/3g0iuYT+llfklxU3AQFTjtcQLdC8hUNfwonJQq1bsURmR8p\nSHEAMgBsJkcCmDUj6BsjQcc+kwKBgQDRr/Co69dHHnc7/d3+NQbqmLm+oHPLgnLj\nxRUHEhEwfRLpAJ6B1aTNHrxJYPwsnkiRoCXmoD9V4wuK3KNVbStaS8N4KEjTj4uW\no5vyPEPx9/77X6xi7XHyvpL6EGFLYIPlb0ePX417tymZG4v8NpcjROheVTeb70zx\nNJ+Nd32XrwKBgQCNjq0tcVg2TS0sisdLFasKIOpcLKpYjZASKFhYNE1YeXTR5LY+\nl7dvRSWQ7EV+EaLp4X0okdYaCIIf7F3w/4vXlwkzuIe6Bzo0TGDx/MK4J2ED1rWO\noVyujxJtHXNdcp1PX9BRSRhXGajrkgKZfKjJEKHnpc1flootbTp13chjsQKBgQCN\nGImk8QVsGqj62km9m2rrAxfBmPAyGbY7Y8tRdavRZ+gIl10RWnRJfgwOiE9Hqr6E\nFzJJrLzRizSiHPNfMVWBrgd63AidKzMviyoNZtYFhO2zsl4qN0J8qBX4ZHtDoE9A\nXI/XfuGSRN6d4vZgIU+z8NM3XrpLmEu65sESDTyaiwKBgQCS5aOgZj4pveLZf6z/\nB0q/JXLzgbLJ9vyVYGNA5J2pIsa4/6j9UM+YzEx4gmlMV6dhiRezc4q+mCcVxk5O\nVm/d7oZsLaSdTBBEGHNMp0YWAL2itkOM66MNrxyNkvFDYRUM5fSKWLNu7hrZiQQU\ntiMVMqoYdZpDcLwKoElVGji2AQ==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-nubgh@monitoreofarmaplus.iam.gserviceaccount.com",
+    "client_id": "115231739714336874708",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nubgh%40monitoreofarmaplus.iam.gserviceaccount.com"
+  }
+  

@@ -1,4 +1,3 @@
-from asyncio.tasks import sleep
 import numpy as np
 from keras.models import load_model
 from keras.preprocessing import image
